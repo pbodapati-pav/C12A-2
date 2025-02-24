@@ -3,7 +3,7 @@ public class TheMotivator {
 		if (score == 100)
 			System.out.println("You're the GOAT");
 		else if (score > 90)
-			System.out.println("That's great");
+			System.out.println("Excellent work");
 		else if (score > 60)
 			System.out.println("That's good ");
 		else
